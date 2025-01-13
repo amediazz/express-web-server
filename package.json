@@ -1,0 +1,15 @@
+{
+  "name": "express-web-server",
+  "version": "1.0.0",
+  "description": "#### The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "saidamzal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
